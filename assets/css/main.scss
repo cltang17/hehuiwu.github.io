@@ -49,3 +49,19 @@
 .pub-title a {
   text-decoration: none;
 }
+
+.pub-details {
+  margin: 0.2rem 0 1rem 0;
+}
+
+.pub-details summary {
+  cursor: pointer;
+  font-size: 0.92rem;
+  color: #666;
+  margin-bottom: 0.4rem;
+}
+
+.pub-details p {
+  font-size: 0.92rem;
+  margin: 0.35rem 0;
+}
